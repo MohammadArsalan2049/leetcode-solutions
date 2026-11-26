@@ -12,8 +12,9 @@ Practice repo for learning DSA by solving problems together — not by watching 
 ## Order (from the DSA starter guide — 8 stages)
 - **Stage 1 — Hash Map:** Two Sum, Contains Duplicate, Valid Anagram, Group Anagrams, Top K Frequent Elements, Longest Consecutive Sequence — done
 - **Stage 2 — Two Pointers / Sliding Window:** Longest Substring Without Repeating Characters done; more to come
+- **Stage 6 — Stack/Queue:** Valid Parentheses done; more to come
 - Also done along the way: Add Two Numbers (Linked List), Longest Palindromic Substring (Strings)
-- Later stages follow the guide: Binary Search, Stack/Queue, Trees/Graphs, Heap/Backtracking/DP.
+- Later stages follow the guide: Binary Search, Trees/Graphs, Heap/Backtracking/DP.
 
 ## Layout
 Each problem lives in its own folder: `<topic>/<number>-<slug>/`
@@ -31,3 +32,4 @@ Each problem lives in its own folder: `<topic>/<number>-<slug>/`
 - [x] Group Anagrams (Hash Map) — solved 2026-11-25, accepted 130/130, 12 ms
 - [x] Top K Frequent Elements (Hash Map) — solved 2026-11-25, accepted 26/26, 10 ms
 - [x] Longest Consecutive Sequence (Hash Map) — solved 2026-11-25, accepted 85/85, 43 ms
+- [x] Valid Parentheses (Stack) — solved 2026-11-26, accepted 103/103, 0 ms
