@@ -11,7 +11,7 @@ Practice repo for learning DSA by solving problems together — not by watching 
 
 ## Order (from the DSA starter guide — 8 stages)
 - **Stage 1 — Hash Map:** Two Sum, Contains Duplicate, Valid Anagram, Group Anagrams, Top K Frequent Elements, Longest Consecutive Sequence — done
-- **Stage 2 — Two Pointers / Sliding Window:** Longest Substring Without Repeating Characters, Valid Palindrome, Two Sum II done; more to come
+- **Stage 2 — Two Pointers / Sliding Window:** Longest Substring Without Repeating Characters, Valid Palindrome, Two Sum II, Container With Most Water done; more to come
 - **Stage 6 — Stack/Queue:** Valid Parentheses, Implement Queue using Stacks done; more to come
 - Also done along the way: Add Two Numbers (Linked List), Longest Palindromic Substring (Strings)
 - Later stages follow the guide: Binary Search, Trees/Graphs, Heap/Backtracking/DP.
@@ -36,3 +36,4 @@ Each problem lives in its own folder: `<topic>/<number>-<slug>/`
 - [x] Implement Queue using Stacks (Stack) — solved 2026-11-26, accepted 23/23, 0 ms
 - [x] Valid Palindrome (Two Pointers) — solved 2026-11-26, accepted 492/492, 9 ms
 - [x] Two Sum II (Two Pointers) — solved 2026-11-28, accepted 26/26, 7 ms
+- [x] Container With Most Water (Two Pointers) — solved 2026-11-28, accepted 65/65, 58 ms
